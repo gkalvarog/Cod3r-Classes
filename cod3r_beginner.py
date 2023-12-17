@@ -21,3 +21,6 @@ print(my_new_dict)
 # loops for dictionaries
 for i in my_new_dict:
     print(i, my_new_dict[i])
+
+#just testing a new detail.
+print("i'm using it from the web")
