@@ -70,10 +70,3 @@ while wanna_bid:
     elif is_someone_else != 'n' and is_someone_else != 'y':
         close_script()
         print("I do not understand what you say. Refresh the page, and next time, write ONLY 'Yes' or 'No'.")
-    
-
-        
-        
-        
-    
-
